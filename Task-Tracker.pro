@@ -61,7 +61,8 @@ FORMS    += \
     Ui/SettingDlg.ui
 
 OTHER_FILES += \
-    Other/tasktracker.rc
+    Other/tasktracker.rc \
+    screenshot/Screenshot.png
 
 RC_FILE = Other/tasktracker.rc
 
