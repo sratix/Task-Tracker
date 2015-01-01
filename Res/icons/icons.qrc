@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>tasktracker.png</file>
+        <file>up.png</file>
+        <file>down.png</file>
+        <file>rename.png</file>
+        <file>set_time.png</file>
+        <file>reset.png</file>
+        <file>delete.png</file>
+        <file>done.png</file>
+        <file>Background.png</file>
+        <file>exit.png</file>
+        <file>setting.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,15 @@
+INPUT(
+./release\qlabelex.o
+./release\tcontainer.o
+./release\downloadmanager.o
+./release\CommonClasses.o
+./release\updatedlg.o
+./release\chart.o
+./release\selectcolor.o
+./release\moc_qlabelex.o
+./release\moc_tcontainer.o
+./release\moc_downloadmanager.o
+./release\moc_updatedlg.o
+./release\moc_chart.o
+./release\moc_selectcolor.o
+);

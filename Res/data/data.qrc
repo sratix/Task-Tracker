@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/data">
+        <file>Task.sql</file>
+        <file>TTReport.xml</file>
+        <file>task-tracker.desktop</file>
+    </qresource>
+</RCC>
